@@ -1,0 +1,20 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+opencv-python==4.8.1.78
+numpy==1.24.4
+Pillow==10.0.1
+python-dotenv==1.0.0
+spotipy==2.23.0
+deepface==0.0.79
+tensorflow==2.13.0
+requests==2.31.0# Install with conda first:
+# conda install -c conda-forge opencv tensorflow numpy pillow requests
+
+# Then pip install the rest:
+Flask==2.3.3
+Werkzeug==2.3.7
+python-dotenv==1.0.0
+spotipy==2.23.0
+deepface==0.0.79
+gunicorn==21.2.0
+gunicorn==21.2.0
